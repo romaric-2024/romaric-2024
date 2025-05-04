@@ -1,6 +1,9 @@
--- Script SQL de création de la table utilisateurs
-CREATE TABLE users (
-  id INT AUTO_INCREMENT PRIMARY KEY,
-  username VARCHAR(255) NOT NULL,
-  password VARCHAR(255) NOT NULL
+CREATE DATABASE IF NOT EXISTS alloasso;
+USE alloasso;
+CREATE TABLE IF NOT EXISTS dons (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nom VARCHAR(255) NOT NULL,
+    montant DECIMAL(10,2) NOT NULL,
+    moyen VARCHAR(50) NOT NULL,
+    timestamp TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
