@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @romaric-2024
 - 👀 I’m interested in site web creation
 - 🌱 I’m currently learning html, JavaScript, java, css & python
-- 💞️ I’m looking to collaborate on SKRIPTOR project
+- 💞️ I’m looking to collaborate on Allo!Asso project
 - 📫 How to reach me ? This is my email : romaricmfumu2024@gmail.com
 - 😄 Pronouns: he
 - ⚡ Fun fact: I'm christian, I believe in God and in his only son Jesus.
