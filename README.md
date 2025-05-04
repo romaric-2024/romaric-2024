@@ -113,7 +113,7 @@ DB_NAME=alloasso
 
 ## Auteurs
 
-Développé avec passion par [Ton Nom] et assisté par ChatGPT.  
+Développé avec passion par ROMARIC MFUMU et assisté par ChatGPT.  
 Projet librement modifiable pour toutes vos idées associatives.
 
 ---
